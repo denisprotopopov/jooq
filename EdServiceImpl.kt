@@ -1,4 +1,4 @@
-package ru.raiffeisen.rise.core.service.impl
+package core.service.impl
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import org.springframework.data.domain.Pageable
