@@ -1,4 +1,4 @@
-package ru.raiffeisen.rise.core.configuration
+package core.configuration
 
 import org.jooq.ExecuteContext
 import org.jooq.SQLDialect
