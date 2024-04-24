@@ -1,4 +1,4 @@
-package ru.raiffeisen.rise.core.repository
+package core.repository
 
 import org.jooq.Record
 import org.jooq.SelectConditionStep
