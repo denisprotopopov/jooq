@@ -7,7 +7,7 @@ import org.jooq.JSONB
 import org.jooq.Record
 import org.jooq.impl.DSL.field
 import org.springframework.data.domain.Pageable
-import ru.raiffeisen.rise.core.repository.model.Ed
+import model.Ed
 import java.util.stream.Collectors
 
 class EdRepositoryImpl(
