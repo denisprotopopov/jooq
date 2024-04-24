@@ -1,4 +1,4 @@
-package ru.raiffeisen.rise.core.repository
+package repository
 
 import com.fasterxml.jackson.core.type.TypeReference
 import com.fasterxml.jackson.databind.ObjectMapper
