@@ -1,4 +1,4 @@
-package ru.raiffeisen.rise.core.controller
+package core.controller
 
 import org.springframework.data.domain.Pageable
 import org.springframework.http.MediaType
